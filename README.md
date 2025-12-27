@@ -1,5 +1,3 @@
-# Heart-Disease-Prediction
-
 # Heart Disease Prediction Using Machine Learning
 
 ## Project Overview
